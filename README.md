@@ -1,7 +1,7 @@
 # SimpleAuth
 Simple authentication with hardware ID verification. 
 
-#How To Use
+# How To Use
 1. Change database config in SimpleAuth/inc/db.inc (Make Sure User Has ALL PRIVILEGES)
 2. Upload SimpleAuth folder into any php hosting provider
 3. Change path variable in Usage folder to your website and folder path (Ex. http://nodesolutions.xyz/SimpleAuth)
